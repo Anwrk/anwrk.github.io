@@ -2913,7 +2913,7 @@ form textarea:required:valid {
   -moz-border-radius: var(--_radius-l);
   border-radius: var(--_radius-l);
   margin-bottom: .8rem;
-  border: 4px solid black;
+  border: 4px solid var(--base-tint--dark);
 }
 
 .menu__item {
